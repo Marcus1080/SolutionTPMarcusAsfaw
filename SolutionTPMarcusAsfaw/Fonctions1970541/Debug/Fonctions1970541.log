@@ -1,0 +1,23 @@
+﻿  Formes1970541.cpp
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Formes1970541.cpp(25,13): warning C4551: function call missing argument list
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Formes1970541.cpp(49,13): warning C4551: function call missing argument list
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Formes1970541.cpp(82,9): warning C4551: function call missing argument list
+  Main1970541.cpp
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Main1970541.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Main1970541.cpp(31,100): error C2660: 'validerMenu': function does not take 2 arguments
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Menus1970541.h(21,5): message : see declaration of 'validerMenu'
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Main1970541.cpp(37,105): error C2660: 'validerMenu': function does not take 2 arguments
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Menus1970541.h(21,5): message : see declaration of 'validerMenu'
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Main1970541.cpp(48,40): error C2660: 'traiterRectangle': function does not take 1 arguments
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Formes1970541.h(11,5): message : see declaration of 'traiterRectangle'
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Main1970541.cpp(63,92): error C2660: 'validerMenu': function does not take 2 arguments
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Menus1970541.h(21,5): message : see declaration of 'validerMenu'
+  Menus1970541.cpp
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Menus1970541.cpp(41,9): warning C4551: function call missing argument list
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Menus1970541.cpp(53,9): warning C4551: function call missing argument list
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Menus1970541.cpp(75,9): warning C4551: function call missing argument list
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Menus1970541.cpp(80,9): warning C4551: function call missing argument list
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Menus1970541.cpp(99,9): warning C4551: function call missing argument list
+  Generating Code...
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Formes1970541.cpp(58): warning C4715: 'traiterCarre': not all control paths return a value
+C:\Users\User\source\repos\SolutionTPMarcusAsfaw\Fonctions1970541\Formes1970541.cpp(41): warning C4715: 'traiterRectangle': not all control paths return a value
